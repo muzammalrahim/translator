@@ -8,9 +8,9 @@
 
 Run composer install
 <br/>
-On cmd run the command: php artisan key:generate
-<br/>
 Rename .env.example to .env
+<br/>
+On cmd run the command: php artisan key:generate
 <br/>
 Add GOOGLE_API_KEY in .env
 <br />
